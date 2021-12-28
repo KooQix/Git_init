@@ -1,4 +1,4 @@
-### A simple shell script to initialize a git remote repository and create a global .gitignore.
+# A simple shell script to initialize a git remote repository and create a global .gitignore.
 
 ## Initialization
 
@@ -8,4 +8,4 @@
 
     sudo ./git_init.sh git@github.com:user/repo.git
 
-# Feel free to modify it to your preferences
+### Feel free to modify it to your preferences
