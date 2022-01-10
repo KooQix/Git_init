@@ -30,7 +30,7 @@ git init
 echo "
 **/.gitignore
 **/.env
-**/nodes_modules
+**/node_modules
 **/Dockerfile
 **/.dockerignore
 **/__pycache__/
