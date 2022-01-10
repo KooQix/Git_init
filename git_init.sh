@@ -84,7 +84,8 @@ temp/
 **/bundle/
 
 ## Angular
-**/environnment/**
+**/environments/**
+
 
 
 **/download/**
