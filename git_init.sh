@@ -83,6 +83,12 @@ temp/
 **/dist/
 **/bundle/
 
+## Angular
+**/environnment/**
+
+
+**/download/**
+
 " > .gitignore
 
 
