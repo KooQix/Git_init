@@ -28,7 +28,6 @@ fi
 
 git init
 echo "
-**/.gitignore
 **/.env
 **/node_modules
 **/Dockerfile
