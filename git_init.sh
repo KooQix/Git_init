@@ -59,7 +59,7 @@ local.properties
 [Tt]humbs.db
 [Dd]esktop.ini
 *.DS_store
-
+*.DS_Store
 
 ## Misc
 **/bin/
