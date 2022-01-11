@@ -28,7 +28,6 @@ fi
 
 git init
 echo "
-**/.gitignore
 **/.env
 **/node_modules
 **/Dockerfile
@@ -84,11 +83,13 @@ temp/
 **/bundle/
 
 ## Angular
-**/environments/**
+**/environments/environment.prod.ts
+**/environments/environment.ts
 
 
 
 **/download/**
+**/downloads/**
 
 " > .gitignore
 
