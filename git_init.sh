@@ -86,11 +86,6 @@ temp/
 **/environments/environment.prod.ts
 **/environments/environment.ts
 
-
-
-**/download/**
-**/downloads/**
-
 " > .gitignore
 
 
