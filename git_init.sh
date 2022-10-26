@@ -30,10 +30,9 @@ git init
 echo "
 **/.env
 **/node_modules
-**/Dockerfile
-**/.dockerignore
 **/__pycache__/
 
+**/.gitignore
 
 **/vendor
 
