@@ -32,8 +32,6 @@ echo "
 **/node_modules
 **/__pycache__/
 
-**/.gitignore
-
 **/vendor
 
 ## IDEs
