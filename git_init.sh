@@ -32,8 +32,6 @@ echo "
 **/node_modules
 **/__pycache__/
 
-**/.gitignore
-
 **/vendor
 
 ## IDEs
@@ -85,8 +83,20 @@ temp/
 **/environments/environment.prod.ts
 **/environments/environment.ts
 
-" > .gitignore
+**/credentials.*
 
+**/package-lock.json
+**/yarn.lock
+
+**/composer.lock
+**/composer.phar
+
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
+
+
+" > .gitignore
 
 
 git add -A
