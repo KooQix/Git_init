@@ -28,6 +28,8 @@ fi
 
 git init
 echo "
+**/.env.development
+**/.env.production
 **/.env
 **/node_modules
 **/__pycache__/
@@ -84,6 +86,7 @@ temp/
 **/environments/environment.ts
 
 **/credentials.*
+**/*credentials*
 
 **/package-lock.json
 **/yarn.lock
@@ -94,6 +97,26 @@ temp/
 **/npm-debug.log
 **/yarn-debug.log
 **/yarn-error.log
+
+
+*.pem
+*.key
+*.p12
+*.pfx
+*.cer
+*.crt
+*.der
+*.p7b
+*.p7c
+*.pem.*
+*.asc
+*.gpg
+*.gnupg
+*.sec
+*.keychain
+*.ppk
+*.pub
+*.priv
 
 
 " > .gitignore
